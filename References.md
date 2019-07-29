@@ -6,7 +6,7 @@
 
 
 #### Big Query
-Documentation reference:
+GCP Documentation reference:<br>
 Big Query all concepts: https://cloud.google.com/bigquery/docs/concepts <br>
 BQ best practices: https://cloud.google.com/bigquery/docs/best-practices <br>
 BQ roles and permissions: https://cloud.google.com/bigquery/docs/access-control <br>
